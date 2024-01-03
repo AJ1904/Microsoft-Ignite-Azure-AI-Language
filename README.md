@@ -1,5 +1,7 @@
 # Microsoft Ignite Challenge: Azure AI Language
 
+![image](https://github.com/AJ1904/Microsoft-Ignite-Azure-AI-Language/assets/49027490/4438e3a4-2f84-40c9-98cf-c0b12d2928cb)
+
 I successfully completed the Microsoft Ignite module on Azure AI Language, focusing on building natural language processing (NLP) solutions using Azure AI Language services. The module covered:
 
 - Understanding and implementing natural language processing solutions
